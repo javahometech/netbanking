@@ -1,3 +1,2 @@
 Name: Hari Kammana
 Location: Banglore
-Designation: Architect
