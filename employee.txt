@@ -1,3 +1,4 @@
+Architect: Rakesh
 Salary: 25000
 Name: Hari Kammana
 Location: Banglore
