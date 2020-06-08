@@ -7,3 +7,4 @@ Designation: DevOps Engineer
 Skills: Java, Python
 Company: IBM
 Project: netbanking
+Client Location: USA
