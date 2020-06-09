@@ -2,3 +2,4 @@ Banana
 Apples
 Grapes
 Mangoes
+Some fruits
